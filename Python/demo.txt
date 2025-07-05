@@ -1,0 +1,3 @@
+# open('file_name','mode')
+file = open('demo.txt','r')
+file.read()
